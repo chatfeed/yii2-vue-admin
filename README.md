@@ -10,13 +10,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist vueadmin/yii2-vue-admin "*"
+php composer.phar require --prefer-dist chatfeed/yii2-vue-admin "*"
 ```
 
 or add
 
 ```
-"vueadmin/yii2-vue-admin": "*"
+"chatfeed/yii2-vue-admin": "*"
 ```
 
 to the require section of your `composer.json` file.

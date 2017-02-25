@@ -1,5 +1,5 @@
 {
-    "name": "vueadmin/yii2-vue-admin",
+    "name": "chatfeed/yii2-vue-admin",
     "description": "a template for admin pannel use vue",
     "type": "yii2-extension",
     "keywords": ["yii2","extension","vue","admin","template"],

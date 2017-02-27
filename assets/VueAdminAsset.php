@@ -3,7 +3,7 @@
  * Created by chatfeed.
  * @Author:$Id$
  */
-namespace VueAdmin\web;
+namespace vueadm\assets;
 
 use yii\web\AssetBundle;
 

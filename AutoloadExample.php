@@ -1,6 +1,6 @@
 <?php
 
-namespace chatfeed\vueadmin;
+namespace vueadm;
 
 /**
  * This is just an example.
